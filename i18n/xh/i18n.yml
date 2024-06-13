@@ -1,13 +1,20 @@
 search: Khangela
-qHolder: Ngenisa Igama Elingundoqo
-close: Vala
+qHolder: Nceda Ngenisa Igama Elingundoqo
+
+close: Ukuvalwa
+
 refresh: Hlaziya
 loading: Iyalayisha
-ok: Kulungile
-config: Qwalasela
-rm: Susa
-setDone: Ukumisela Kwenziwe
-create: Yenza
 
-enable: Vulela
+ok: Qinisekisa
+
+config: Uqwalaselo
+rm: Susa
+
+setDone: Ukuseta Kuphumelele
+
+create: Dala
+
+enable: Yenza
 disable: Khubaza
+

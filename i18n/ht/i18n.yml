@@ -1,13 +1,20 @@
 search: Rechèch
-qHolder: Antre Mot
-close: Fèmen
+qHolder: Tanpri Antre Yon Mo Kle
+
+close: Fèmti
+
 refresh: Rafrechi
 loading: Chaje
-ok: Oke
+
+ok: Konfime
+
 config: Konfigirasyon
 rm: Retire
-setDone: Anviwònman Fè
+
+setDone: Enstalasyon Siksè
+
 create: Kreye
 
 enable: Pèmèt
 disable: Enfim
+

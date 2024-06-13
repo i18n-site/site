@@ -1,13 +1,20 @@
 search: Cari
-qHolder: Masukkan Kata Kunci
-close: Tutup
+qHolder: Sila Masukkan Kata Kunci
+
+close: Penutupan
+
 refresh: Segarkan Semula
 loading: Memuatkan
-ok: Okey
+
+ok: Mengesahkan
+
 config: Konfigurasi
 rm: Alih Keluar
-setDone: Tetapan Selesai
-create: Buat
 
-enable: Dayakan
+setDone: Persediaan Berjaya
+
+create: Cipta
+
+enable: Membolehkan
 disable: Lumpuhkan
+

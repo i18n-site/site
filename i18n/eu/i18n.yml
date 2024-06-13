@@ -1,13 +1,20 @@
 search: Bilatu
-qHolder: Sartu Gakoa
-close: Itxi
+qHolder: Mesedez, Idatzi Gako-hitz Bat
+
+close: Itxiera
+
 refresh: Freskatu
 loading: Kargatzen
-ok: Ados
-config: Konfig
+
+ok: Berretsi
+
+config: Konfigurazioa
 rm: Kendu
-setDone: Egindako Ezarpena
+
+setDone: Konfigurazioa Arrakastatsua Da
+
 create: Sortu
 
 enable: Gaitu
 disable: Desgaitu
+

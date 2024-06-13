@@ -1,13 +1,20 @@
-search: Pilarian
-qHolder: Lebetkeun Kecap Konci
-close: Tutup
+search: Milarian
+qHolder: Mangga Lebetkeun Kecap Konci
+
+close: Panutupanana
+
 refresh: Nyegerkeun
 loading: Ngamuat
-ok: OKÉ
+
+ok: Mastikeun
+
 config: Konfigurasi
 rm: Cabut
-setDone: Setélan Réngsé
+
+setDone: Setup Suksés
+
 create: Nyiptakeun
 
-enable: Aktipkeun
+enable: Ngaktifkeun
 disable: Pareuman
+

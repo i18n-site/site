@@ -1,13 +1,20 @@
 search: Zoekopdracht
-qHolder: Voer Het Trefwoord In
-close: Dichtbij
+qHolder: Voer Een Trefwoord In
+
+close: Sluiting
+
 refresh: Vernieuwen
 loading: Bezig Met Laden
-ok: OK
+
+ok: Bevestigen
+
 config: Configuratie
 rm: Verwijderen
-setDone: Instelling Gereed
+
+setDone: Setup Succesvol
+
 create: Creëren
 
 enable: Inschakelen
 disable: Uitzetten
+

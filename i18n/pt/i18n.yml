@@ -1,13 +1,20 @@
 search: Procurar
-qHolder: Insira A Palavra-chave
-close: Fechar
+qHolder: Por Favor Insira Uma Palavra-chave
+
+close: Fecho
+
 refresh: Atualizar
 loading: Carregando
-ok: OK
+
+ok: Confirme
+
 config: Configuração
 rm: Remover
-setDone: Configuração Concluída
+
+setDone: Configuração Bem Sucedida
+
 create: Criar
 
 enable: Habilitar
 disable: Desativar
+

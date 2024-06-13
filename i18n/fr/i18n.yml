@@ -1,13 +1,20 @@
 search: Recherche
-qHolder: Entrez Un Mot-clef
-close: Fermer
+qHolder: Veuillez Saisir Un Mot-clé
+
+close: Fermeture
+
 refresh: Rafraîchir
 loading: Chargement
-ok: D'accord
+
+ok: Confirmer
+
 config: Configuration
 rm: Retirer
-setDone: Réglage Effectué
+
+setDone: Installation Réussie
+
 create: Créer
 
 enable: Activer
 disable: Désactiver
+

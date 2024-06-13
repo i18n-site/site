@@ -1,13 +1,20 @@
-search: Ricerca
-qHolder: Inserite Keyword
-close: Chiudi
-refresh: Refresh
+search: Cerca
+qHolder: Per Piacè Inserite Una Keyword
+
+close: Chjusu
+
+refresh: Rinfriscà
 loading: Carica
-ok: Ok
-config: Config
+
+ok: Cunfirmà
+
+config: Cunfigurazione
 rm: Eliminate
-setDone: Paràmetru Fattu
+
+setDone: Setup Successu
+
 create: Crià
 
 enable: Attivà
 disable: Disattivà
+

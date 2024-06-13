@@ -1,13 +1,20 @@
 search: Cerca
-qHolder: Introduïu La Paraula Clau
-close: Tanca
+qHolder: Introduïu Una Paraula Clau
+
+close: Tancament
+
 refresh: Actualització
 loading: Carregant
-ok: D'acord
-config: Config
+
+ok: Confirmar
+
+config: Configuració
 rm: Eliminar
-setDone: Configuració Feta
+
+setDone: Configuració Correcta
+
 create: Crear
 
-enable: Activa
+enable: Habilitar
 disable: Desactivar
+

@@ -1,13 +1,20 @@
-search: Chwiliwch
+search: Chwilio
 qHolder: Rhowch Allweddair
-close: Cau
-refresh: Adnewyddu
+
+close: Gau
+
+refresh: Adfywio
 loading: Llwytho
-ok: Iawn
-config: Config
+
+ok: Cadarnhau
+
+config: Cyfluniad
 rm: Dileu
-setDone: Gosod Wedi'i Gyflawni
+
+setDone: Gosod Yn Llwyddiannus
+
 create: Creu
 
 enable: Galluogi
 disable: Analluogi
+

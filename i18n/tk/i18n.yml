@@ -1,13 +1,20 @@
 search: Gözlemek
-qHolder: Açar Söz Giriziň
-close: .Akyn
-refresh: Täzele
-loading: Adingüklemek
-ok: Bolýar
-config: Sazlamak
-rm: Aýyr
-setDone: Doneerine Ýetirildi
-create: Dörediň
+qHolder: Açar Söz Ýazmagyňyzy Haýyş Edýäris
 
-enable: Işlet
+close: Ýapmak
+
+refresh: Täzele
+loading: Ýüklemek
+
+ok: Tassykla
+
+config: Sazlama
+rm: Aýyr
+
+setDone: Gurnamak Üstünlikli
+
+create: Döretmek
+
+enable: Işletmek
 disable: Öçüriň
+

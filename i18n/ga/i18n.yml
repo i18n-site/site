@@ -1,13 +1,20 @@
-search: Cuardach
-qHolder: Iontráil Eochairfhocal
-close: Dún
-refresh: Athnuaigh
+search: Cuardaigh
+qHolder: Cuir Isteach Eochairfhocal
+
+close: Dúnadh
+
+refresh: Athnuachan
 loading: Ag Lódáil
-ok: Ceart Go Leor
+
+ok: Deimhnigh
+
 config: Cumraíocht
 rm: Bain
-setDone: Socrú Déanta
-create: Cruthaigh
 
-enable: Cumasaigh
+setDone: D'éirigh Leis An Socrú
+
+create: Chruthú
+
+enable: Chumasú
 disable: Díchumasaigh
+

@@ -1,13 +1,20 @@
 search: Aramak
-qHolder: Anahtar Kelimeyi Girin
-close: Kapalı
-refresh: Yenile
+qHolder: Lütfen Bir Anahtar Kelime Girin
+
+close: Kapatma
+
+refresh: Yenileme
 loading: Yükleniyor
-ok: Tamam
+
+ok: Onaylamak
+
 config: Yapılandırma
 rm: Kaldırmak
-setDone: Ayar Bitti
+
+setDone: Kurulum Başarılı
+
 create: Yaratmak
 
 enable: Olanak Vermek
 disable: Devre Dışı Bırakmak
+

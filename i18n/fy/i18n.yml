@@ -1,13 +1,20 @@
 search: Sykje
-qHolder: Fier Kaaiwurd Yn
-close: Slute
+qHolder: Fier In Kaaiwurd Yn
+
+close: Sluting
+
 refresh: Opfrisse
-loading: Loading
-ok: Ok
-config: Config
+loading: Laden
+
+ok: Befêstigje
+
+config: Konfiguraasje
 rm: Weinimme
-setDone: Ynstelling Dien
+
+setDone: Setup Slagge
+
 create: Meitsje
 
 enable: Ynskeakelje
 disable: Utskeakelje
+

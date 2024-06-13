@@ -1,13 +1,20 @@
-search: Sakani
-qHolder: Lowetsani Keyword
-close: Tsekani
-refresh: Tsitsaninso
-loading: Kutsegula
-ok: Chabwino
-config: Konzani
+search: Fufuzani
+qHolder: Chonde Lowetsani Mawu Osakira
+
+close: Kutseka
+
+refresh: Tsitsimutsani
+loading: Kutsitsa
+
+ok: Tsimikizirani
+
+config: Kusintha
 rm: Chotsani
-setDone: Kukhazikitsa Kwachitika
+
+setDone: Kukhazikitsa Kwapambana
+
 create: Pangani
 
-enable: Yambitsani
+enable: Athe
 disable: Letsani
+

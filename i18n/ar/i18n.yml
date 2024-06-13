@@ -1,13 +1,20 @@
 search: يبحث
-qHolder: أدخل الكلمة المفتاحية
-close: يغلق
+qHolder: الرجاء إدخال كلمة رئيسية
+
+close: إنهاء
+
 refresh: ينعش
 loading: تحميل
-ok: نعم
-config: التكوين
+
+ok: يتأكد
+
+config: إعدادات
 rm: يزيل
-setDone: تم الإعداد
+
+setDone: تم الإعداد بنجاح
+
 create: يخلق
 
 enable: يُمكَِن
 disable: إبطال
+

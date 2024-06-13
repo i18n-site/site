@@ -1,13 +1,20 @@
 search: Vyhľadávanie
 qHolder: Zadajte Kľúčové Slovo
-close: Zavrieť
+
+close: Uzavretie
+
 refresh: Obnoviť
 loading: Načítava
-ok: Dobre
-config: Konfig
+
+ok: Potvrdiť
+
+config: Konfigurácia
 rm: Odstrániť
-setDone: Nastavenie Hotovo
-create: Vytvorte
+
+setDone: Nastavenie Bolo Úspešné
+
+create: Vytvoriť
 
 enable: Povoliť
 disable: Zakázať
+

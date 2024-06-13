@@ -1,13 +1,20 @@
 search: Nggoleki
-qHolder: Ketik Keyword
-close: Nutup
+qHolder: Mangga Ketik Tembung Kunci
+
+close: Penutupan
+
 refresh: Refresh
 loading: Loading
-ok: Oke
+
+ok: Konfirmasi
+
 config: Konfigurasi
 rm: Mbusak
-setDone: Setelan Rampung
+
+setDone: Persiyapan Sukses
+
 create: Nggawe
 
-enable: Aktifake
+enable: Ngaktifake
 disable: Pateni
+

@@ -1,13 +1,20 @@
 search: Pangitaa
-qHolder: Pagsulod Sa Keyword
-close: Suod Nga
-refresh: I-refresh
-loading: Nagkarga
-ok: Ok
-config: Config
+qHolder: Palihug Pagsulod Ug Keyword
+
+close: Pagsira
+
+refresh: Pag-refresh
+loading: Loading
+
+ok: Sa Pagmatuod Sa
+
+config: Pag-configure
 rm: Kuhaa
-setDone: Nahuman Na Ang Setting
+
+setDone: Malampuson Ang Pag-setup
+
 create: Paghimo
 
 enable: Makahimo
 disable: Pag-disable
+

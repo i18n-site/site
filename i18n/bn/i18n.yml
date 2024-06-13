@@ -1,13 +1,20 @@
-search: অনুসন্ধান করুন
-qHolder: কীওয়ার্ড লিখুন
+search: অনুসন্ধান
+qHolder: অনুগ্রহ করে একটি কীওয়ার্ড লিখুন
+
 close: বন্ধ
+
 refresh: রিফ্রেশ
 loading: লোড হচ্ছে
-ok: ঠিক আছে
-config: কনফিগার
+
+ok: নিশ্চিত করুন
+
+config: কনফিগারেশন
 rm: অপসারণ
-setDone: সেটিং সম্পন্ন
+
+setDone: সফল সেটআপ
+
 create: সৃষ্টি
 
-enable: সক্ষম করুন
+enable: সক্ষম
 disable: নিষ্ক্রিয় করুন
+

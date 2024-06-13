@@ -1,13 +1,20 @@
 search: Barbaaduu
-qHolder: Keyword Galchi
-close: Cufuu
-refresh: Haaromsi
-loading: Fe'amaa Jira
-ok: Tole
-config: Config
+qHolder: Mee Jecha Furtuu Galchaa
+
+close: Cufamuu
+
+refresh: Haaromsuu
+loading: Fe’aa Jira
+
+ok: Mirkaneessuu
+
+config: Qindeessituu
 rm: Irraa Kaasuu
-setDone: Saagi Raawwatame
+
+setDone: Setup Milkaa'eera
+
 create: Uumuu
 
 enable: Dandeessisuu
 disable: Akka Hin Hojjenne Gochuu
+

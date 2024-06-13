@@ -1,13 +1,20 @@
-search: Fittex
-qHolder: Daħħal Keyword
-close: Agħlaq
+search: Tfittxija
+qHolder: Jekk Jogħġbok Daħħal Keyword
+
+close: Għeluq
+
 refresh: Aġġorna
 loading: Tagħbija
-ok: Kollox Sew
+
+ok: Tikkonferma
+
 config: Konfigurazzjoni
 rm: Neħħi
-setDone: Issettjar Magħmul
-create: Oħloq
 
-enable: Ippermettiet
+setDone: Setup B'suċċess
+
+create: Toħloq
+
+enable: Jippermettu
 disable: Itfi
+

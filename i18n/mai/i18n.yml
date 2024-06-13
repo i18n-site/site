@@ -1,13 +1,20 @@
 search: खोजनाइ
-qHolder: कीवर्ड दर्ज करू
-close: बंद
-refresh: ताज़ा करू
+qHolder: कृपया एकटा कीवर्ड दर्ज करू
+
+close: बंद करब
+
+refresh: ताज़ा करब
 loading: लोड हो रहल अछि
-ok: ठीक छैै
-config: कॉन्फ़िगरेशन
+
+ok: पुष्टि करु
+
+config: विन्यास
 rm: हटाउ
-setDone: सेटिंग भ गेल
+
+setDone: सेटअप सफल
+
 create: बनाउ
 
 enable: योग्य करनाइ
 disable: असमर्थ
+

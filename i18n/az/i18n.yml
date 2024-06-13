@@ -1,13 +1,20 @@
-search: Axtar
-qHolder: Açar Sözü Daxil Edin
-close: Yaxın
+search: Axtarış
+qHolder: Açar Söz Daxil Edin
+
+close: Bağlanması
+
 refresh: Təzələmək
 loading: Yüklənir
-ok: Tamam
+
+ok: Təsdiq Edin
+
 config: Konfiqurasiya
 rm: Sil
-setDone: Parametr Hazırdır
-create: Yaradın
+
+setDone: Quraşdırma Uğurlu
+
+create: Yaratmaq
 
 enable: Aktivləşdirin
 disable: Deaktiv Edin
+

@@ -1,13 +1,20 @@
-search: Kërko
-qHolder: Futni Fjalën Kyçe
-close: Mbylle
-refresh: Rifresko
-loading: Po Ngarkohet
-ok: Ne Rregull
+search: Kërkimi
+qHolder: Ju lutemi shkruani një fjalë kyçe
+
+close: Mbyllje
+
+refresh: Freskoj
+loading: Ngarkim
+
+ok: Konfirmoj
+
 config: Konfigurimi
 rm: Hiq
-setDone: Cilësimi U Krye
-create: Krijo
 
-enable: Aktivizo
+setDone: Konfigurimi I Suksesshëm
+
+create: Krijojnë
+
+enable: Mundësojnë
 disable: Çaktivizo
+

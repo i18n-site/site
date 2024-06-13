@@ -1,13 +1,20 @@
 search: ຊອກຫາ
-qHolder: ໃສ່ Keyword
+qHolder: ກະລຸນາໃສ່ຄໍາສໍາຄັນ
+
 close: ປິດ
-refresh: ໂຫຼດຂໍ້ມູນຄືນໃໝ່
+
+refresh: ໂຫຼດຫນ້າຈໍຄືນ
 loading: ກຳລັງໂຫຼດ
-ok: ຕົກ​ລົງ
-config: ກຳນົດຄ່າ
+
+ok: ຢືນຢັນ
+
+config: ການຕັ້ງຄ່າ
 rm: ເອົາອອກ
-setDone: ຕັ້ງຄ່າແລ້ວໆ
+
+setDone: ຕັ້ງຄ່າສຳເລັດແລ້ວ
+
 create: ສ້າງ
 
 enable: ເປີດໃຊ້
 disable: ປິດໃຊ້ງານ
+

@@ -1,13 +1,20 @@
 search: Nrhiav
-qHolder: Sau Lo Lus Tseem Ceeb
+qHolder: Thov sau lo lus tseem ceeb
+
 close: Kaw
-refresh: Hloov Tshiab
-loading: Chaw Thau Khoom
-ok: Ok
-config: Config
+
+refresh: Refresh
+loading: Thauj Khoom
+
+ok: Paub Meej
+
+config: Kev Teeb Tsa
 rm: Tshem Tawm
+
 setDone: Kev Teeb Tsa Tiav
+
 create: Tsim
 
 enable: Pab
 disable: Disable
+

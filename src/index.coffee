@@ -1,7 +1,6 @@
 > x/a.js:
   ~/lib/USE.js:
   ~/lib/NAV.js:
-  ~/plugin.js:
   ~/Index.svelte
   ~/styl/site.styl
   @2-/doc/BODY.js

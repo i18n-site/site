@@ -1,13 +1,20 @@
 search: Gerr
-qHolder: Keyword Binivîse
-close: Nêzîkî
+qHolder: Ji kerema xwe peyveke sereke binivîse
+
+close: Girtinî
+
 refresh: Hênikkirin
 loading: Barkirin
-ok: Ok
-config: Config
+
+ok: Tesdîqkirin
+
+config: Veavakirin
 rm: Dûrxistin
-setDone: Setting Done
+
+setDone: Sazkirin Serkeftî Bû
+
 create: Xûliqandin
 
 enable: Bikêrkirin
 disable: Neçalak Bike
+

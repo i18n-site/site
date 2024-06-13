@@ -1,13 +1,20 @@
-search: Leita
-qHolder: Sláðu Inn Lykilorð
-close: Loka
-refresh: Endurnýja
+search: Leit
+qHolder: Vinsamlega Sláðu Inn Leitarorð
+
+close: Lokun
+
+refresh: Hressa
 loading: Hleðsla
-ok: Allt Í Lagi
-config: Config
+
+ok: Staðfesta
+
+config: Stillingar
 rm: Fjarlægja
-setDone: Stilling Lokið
+
+setDone: Uppsetning Tókst
+
 create: Búa Til
 
 enable: Virkja
 disable: Slökkva
+

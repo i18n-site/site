@@ -1,13 +1,20 @@
 search: Otsing
 qHolder: Sisestage Märksõna
-close: Sulge
+
+close: Sulgemine
+
 refresh: Värskenda
 loading: Laadimine
-ok: Okei
-config: Konfig
-rm: Eemalda
-setDone: Seadistamine On Tehtud
-create: Loo
 
-enable: Luba
+ok: Kinnitada
+
+config: Seadistamine
+rm: Eemalda
+
+setDone: Seadistamine Õnnestus
+
+create: Luua
+
+enable: Lubada
 disable: Keela
+

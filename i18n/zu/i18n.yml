@@ -1,13 +1,20 @@
 search: Sesha
-qHolder: Faka Igama Elingukhiye
-close: Vala
+qHolder: Sicela Ufake Igama Elingukhiye
+
+close: Ukuvala
+
 refresh: Vuselela
 loading: Iyalayisha
-ok: Kulungile
-config: Lungiselela
+
+ok: Qinisekisa
+
+config: Ukucushwa
 rm: Susa
-setDone: Ukusetha Kwenziwe
+
+setDone: Ukusetha Kuphumelele
+
 create: Dala
 
-enable: Nika Amandla
+enable: Vumela
 disable: Khubaza
+

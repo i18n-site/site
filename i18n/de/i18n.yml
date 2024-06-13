@@ -1,13 +1,20 @@
 search: Suchen
-qHolder: Schlüsselwort Eingeben
-close: Schließen
+qHolder: Bitte geben Sie ein Schlüsselwort ein
+
+close: Schließung
+
 refresh: Aktualisierung
 loading: Wird Geladen
-ok: OK
-config: Konfig
+
+ok: Bestätigen
+
+config: Aufbau
 rm: Entfernen
-setDone: Einstellung Abgeschlossen
+
+setDone: Installation Erfolgreich
+
 create: Erstellen
 
 enable: Aktivieren
 disable: Deaktivieren
+

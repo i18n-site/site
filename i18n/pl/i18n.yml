@@ -1,13 +1,20 @@
 search: Szukaj
-qHolder: Wpisz Słowo Kluczowe
-close: Zamknąć
+qHolder: Proszę Wprowadzić Słowo Kluczowe
+
+close: Zamknięcie
+
 refresh: Odświeżać
 loading: Ładowanie
-ok: OK
-config: Konfig
+
+ok: Potwierdzać
+
+config: Konfiguracja
 rm: Usunąć
-setDone: Ustawienie Gotowe
+
+setDone: Konfiguracja Powiodła Się
+
 create: Tworzyć
 
 enable: Włączać
 disable: Wyłączyć
+

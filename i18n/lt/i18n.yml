@@ -1,13 +1,20 @@
 search: Paieška
 qHolder: Įveskite Raktinį Žodį
-close: Uždaryti
+
+close: Uždarymas
+
 refresh: Atnaujinti
-loading: Įkeliama
-ok: Gerai
-config: Konfig
+loading: Pakrovimas
+
+ok: Patvirtinti
+
+config: Konfigūracija
 rm: Pašalinti
-setDone: Nustatymas Atliktas
+
+setDone: Sąranka Sėkminga
+
 create: Sukurti
 
-enable: Įgalinti
+enable: Įjungti
 disable: Išjungti
+

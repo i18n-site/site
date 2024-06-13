@@ -1,13 +1,20 @@
 search: Qidirmoq
-qHolder: Kalit So'zni Kiriting
-close: Yopish
+qHolder: Iltimos, Kalit So‘z Kiriting
+
+close: Yopilish
+
 refresh: Yangilash
-loading: Yuklanmoqda
-ok: Kelishdikmi
+loading: Yuklash
+
+ok: Tasdiqlang
+
 config: Konfiguratsiya
 rm: O'chirish
-setDone: Sozlash Tugallandi
+
+setDone: Sozlash Muvaffaqiyatli
+
 create: Yaratmoq
 
 enable: Yoqish
 disable: Oʻchirish
+

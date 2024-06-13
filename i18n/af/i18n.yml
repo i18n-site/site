@@ -1,13 +1,20 @@
 search: Soek
-qHolder: Voer Sleutelwoord In
-close: Naby
+qHolder: Voer Asseblief 'n Sleutelwoord In
+
+close: Sluiting
+
 refresh: Verfris
-loading: Laai Tans
-ok: Goed
-config: Config
+loading: Laai
+
+ok: Bevestig
+
+config: Konfigurasie
 rm: Verwyder
-setDone: Instelling Klaar
+
+setDone: Opstelling Suksesvol
+
 create: Skep
 
 enable: Aktiveer
 disable: Deaktiveer
+

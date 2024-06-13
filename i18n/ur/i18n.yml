@@ -1,13 +1,20 @@
-search: تلاش کریں۔
-qHolder: مطلوبہ الفاظ درج کریں۔
-close: بند کریں
-refresh: ریفریش کریں۔
-loading: لوڈ ہو رہا ہے۔
-ok: ٹھیک ہے
-config: ترتیب
+search: تلاش کریں
+qHolder: براہ کرم ایک کلیدی لفظ درج کریں۔
+
+close: بندش
+
+refresh: ریفریش
+loading: لوڈ ہو رہا ہے
+
+ok: تصدیق کریں
+
+config: کنفیگریشن
 rm: دور
-setDone: سیٹنگ ہو گئی۔
+
+setDone: سیٹ اپ کامیاب
+
 create: بنانا
 
 enable: فعال
 disable: غیر فعال کریں۔
+

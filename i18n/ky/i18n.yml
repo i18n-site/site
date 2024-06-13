@@ -1,13 +1,20 @@
 search: Издөө
-qHolder: Ачкыч Кирет
+qHolder: Ачкыч Сөздү Киргизиңиз
+
 close: Жабуу
+
 refresh: Жаңылоо
 loading: Жүктөө
-ok: Макул
+
+ok: Ырастоо
+
 config: Конфигурация
 rm: Алып Салуу
-setDone: Орнотуу Бүттү
+
+setDone: Орнотуу Ийгиликтүү
+
 create: Түзүү
 
 enable: Иштетүү
 disable: Өчүрүү
+

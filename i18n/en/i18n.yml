@@ -1,13 +1,20 @@
 search: Search
 qHolder: Enter Keyword
+
 close: Close
+
 refresh: Refresh
 loading: Loading
-ok: Ok
+
+ok: OK
+
 config: Config
 rm: Remove
-setDone: Setting Done
+
+setDone: Done
+
 create: Create
 
 enable: Enable
 disable: Disable
+

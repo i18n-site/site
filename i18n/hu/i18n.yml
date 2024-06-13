@@ -1,13 +1,20 @@
 search: Keresés
-qHolder: Írja Be A Kulcsszót
+qHolder: Kérjük, Adjon Meg Egy Kulcsszót
+
 close: Bezárás
+
 refresh: Frissítés
 loading: Betöltés
-ok: Rendben
-config: Konfig
+
+ok: Megerősít
+
+config: Konfiguráció
 rm: Távolítsa El
-setDone: Beállítás Kész
+
+setDone: Sikeres Telepítés
+
 create: Teremt
 
 enable: Engedélyezze
 disable: Letiltás
+

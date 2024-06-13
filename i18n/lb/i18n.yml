@@ -1,13 +1,20 @@
 search: Sichen
-qHolder: Gitt Schlësselwuert
-close: Zoumaachen
+qHolder: Gitt W.e.g. E Schlësselwuert Un
+
+close: Ofschloss
+
 refresh: Erfrëschen
 loading: Lueden
-ok: Ok
-config: Config
+
+ok: Confirméieren
+
+config: Configuratioun
 rm: Ewechzehuelen
-setDone: Astellung Gemaach
+
+setDone: Setup Erfollegräich
+
 create: Schafen
 
 enable: Aktivéieren
 disable: Desaktivéieren
+

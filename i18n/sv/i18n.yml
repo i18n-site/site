@@ -1,13 +1,20 @@
 search: Sök
-qHolder: Ange Nyckelord
-close: Stänga
+qHolder: Vänligen Ange Ett Nyckelord
+
+close: Stängning
+
 refresh: Uppdatera
 loading: Läser In
-ok: Ok
-config: Konfig
+
+ok: Bekräfta
+
+config: Konfiguration
 rm: Avlägsna
-setDone: Inställning Klar
+
+setDone: Installationen Lyckades
+
 create: Skapa
 
 enable: Gör Det Möjligt
 disable: Inaktivera
+

@@ -1,13 +1,20 @@
 search: Traži
 qHolder: Unesite Ključnu Riječ
-close: Zatvori
+
+close: Zatvaranje
+
 refresh: Osvježiti
 loading: Učitavanje
-ok: Uredu
-config: Config
+
+ok: Potvrditi
+
+config: Konfiguracija
 rm: Ukloni
-setDone: Setting Done
+
+setDone: Postavljanje Uspješno
+
 create: Stvoriti
 
-enable: Omogući
+enable: Omogućiti
 disable: Onemogući
+

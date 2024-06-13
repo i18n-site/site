@@ -1,13 +1,20 @@
 search: Søk
-qHolder: Skriv Inn Nøkkelord
-close: Lukk
+qHolder: Vennligst Skriv Inn Et Nøkkelord
+
+close: Stenging
+
 refresh: Forfriske
-loading: Laster
-ok: Ok
-config: Konfig
+loading: Lasting
+
+ok: Bekrefte
+
+config: Konfigurasjon
 rm: Fjerne
-setDone: Innstilling Ferdig
+
+setDone: Konfigurasjonen Var Vellykket
+
 create: Skape
 
 enable: Muliggjøre
 disable: Deaktiver
+

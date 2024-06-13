@@ -4,14 +4,13 @@ DIR=$(dirname $(realpath "$0"))
 cd $DIR
 set -ex
 
-if [ ! -d "node_modules" ]; then
-  ni
-fi
-
-./sh/plugin.sh
+cd sh
+./init.sh
+./plugin.sh
+cd ..
 
 run() {
-  direnv exec . $@
+  mise exec -- $@
 }
 
 run bun x plugin
@@ -32,4 +31,4 @@ cd $DIR
 # }
 # link &
 # cd $DIR
-exec ./sh/dev.sh
+exec mise exec -- ./sh/dev.sh

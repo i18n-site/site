@@ -1,13 +1,20 @@
 search: Căutare
-qHolder: Introduceți Cuvântul Cheie
-close: Închide
+qHolder: Vă rugăm să introduceți un cuvânt cheie
+
+close: Închidere
+
 refresh: Reîmprospăta
 loading: Se Încarcă
-ok: Bine
-config: Config
+
+ok: A Confirma
+
+config: Configurare
 rm: Elimina
-setDone: Setarea Gata
+
+setDone: Configurare Reușită
+
 create: Crea
 
 enable: Permite
 disable: Dezactivați
+

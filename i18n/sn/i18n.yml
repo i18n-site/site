@@ -1,13 +1,20 @@
-search: Search
-qHolder: Pinda Keyword
-close: Close
-refresh: Refresh
+search: Tsvaga
+qHolder: Ndapota Isa Izwi Rakakosha
+
+close: Kuvhara
+
+refresh: Zorodza
 loading: Loading
-ok: Ok
-config: Config
+
+ok: Simbisa
+
+config: Configuration
 rm: Bvisa
-setDone: Kugadzirisa Kwaitwa
-create: Create
+
+setDone: Kuseta Kwabudirira
+
+create: Gadzira
 
 enable: Enable
 disable: Disable
+

@@ -1,13 +1,20 @@
 search: সন্ধান
-qHolder: কীৱৰ্ড লিখক
-close: বন্ধ
+qHolder: অনুগ্ৰহ কৰি এটা মূল শব্দ দিয়ক
+
+close: বন্ধ কৰা
+
 refresh: সতেজ কৰক
-loading: লোড হৈ আছে
-ok: ঠিক আছে
-config: কনফিগ কৰক
+loading: লোডিং
+
+ok: নিশ্চিত
+
+config: বিন্যাস
 rm: আঁতৰোৱা
-setDone: ছেটিং কৰা হৈছে
+
+setDone: ছেটআপ সফল
+
 create: সৃষ্টি কৰা
 
 enable: সক্ষম কৰা
 disable: অক্ষম
+

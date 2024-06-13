@@ -1,13 +1,20 @@
 search: ڳولا
-qHolder: داخل ڪريو Keyword
-close: بند
-refresh: تازو ڪريو
-loading: لوڊشيڊنگ
-ok: ٺيڪ
-config: ترتيب
-rm: هٽايو
-setDone: سيٽنگ ٿي وئي
-create: ٺاهيو
+qHolder: مھرباني ڪري ھڪڙو لفظ داخل ڪريو
 
-enable: فعال ڪريو
+close: بندش
+
+refresh: ريفريش ڪرڻ
+loading: لوڊ ڪرڻ
+
+ok: تصديق ڪرڻ
+
+config: ٺاھ جوڙ
+rm: هٽايو
+
+setDone: سيٽ اپ ڪامياب
+
+create: ٺاهڻ
+
+enable: چالو ڪرڻ
 disable: نااهل
+

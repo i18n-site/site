@@ -1,13 +1,20 @@
 search: Meklēt
-qHolder: Ievadiet Atslēgvārdu
-close: Aizvērt
+qHolder: Lūdzu, Ievadiet Atslēgvārdu
+
+close: Slēgšana
+
 refresh: Atjaunot
-loading: Notiek Ielāde
-ok: Labi
-config: Konfig
+loading: Iekraušana
+
+ok: Apstiprināt
+
+config: Konfigurācija
 rm: Noņemt
-setDone: Iestatīšana Ir Pabeigta
+
+setDone: Iestatīšana Veiksmīga
+
 create: Izveidot
 
 enable: Iespējot
 disable: Atspējot
+

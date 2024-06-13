@@ -1,13 +1,20 @@
-search: Serĉu
-qHolder: Enigu Ŝlosilvorton
-close: Fermu
+search: Serĉi
+qHolder: Bonvolu Enigi Ŝlosilvorton
+
+close: Fermo
+
 refresh: Refreŝigi
-loading: Ŝarĝante
-ok: Bone
+loading: Ŝarĝo
+
+ok: Konfirmi
+
 config: Agordo
 rm: Forigi
-setDone: Agordo Farita
+
+setDone: Instalado Sukcesa
+
 create: Krei
 
-enable: Ebligu
+enable: Ebligi
 disable: Malebligu
+

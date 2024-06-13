@@ -1,13 +1,20 @@
 search: Thaqhata
-qHolder: Uñakipt’aña Jach’a Arunaka
-close: Jist'antaña
-refresh: Refresco Luraña
-loading: Ukax Mä Juk’a Pachanakanwa
-ok: Waliki
-config: Config Ukax Mä Juk’a Pachanakanwa
+qHolder: Mä Jach’a Aru Qillqt’aña
+
+close: Jist’antañataki
+
+refresh: Refrescaña
+loading: Ukax Cargañawa
+
+ok: Iyawsaña
+
+config: Configuración ukaxa mä juk’a pachanakwa lurasi
 rm: Unxtayaña
-setDone: Uñstayaña Luraña
+
+setDone: Setup Ukax Wali Askiwa
+
 create: Uñstayaña
 
 enable: Pirmitiña
 disable: Suyt'ayaña
+

@@ -1,13 +1,20 @@
 search: Chọọ
-qHolder: Tinye Isiokwu
-close: Mechie
-refresh: Weghachite Ume
-loading: Na-ebugo
-ok: Ọ Dị Mma
+qHolder: Biko Tinye Isiokwu
+
+close: Mmechi
+
+refresh: Nweta Ume
+loading: Nbudata
+
+ok: Gosi
+
 config: Nhazi
 rm: Wepu
-setDone: Emela Ntọala
+
+setDone: Nhazi Gara Nke Ọma
+
 create: Mepụta
 
-enable: Kwado
+enable: Mee Ka
 disable: Gbanyụọ
+

@@ -21,3 +21,5 @@ env.sh
 /src/styl/svg.styl
 
 /.gen/
+/conf/
+/package.json

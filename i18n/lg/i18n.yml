@@ -1,13 +1,20 @@
 search: Okunoonya
-qHolder: Yingiza Ekigambo Ekikulu
+qHolder: Nsaba Oyingize Ekigambo Ekikulu
+
 close: Okuggalawo
+
 refresh: Okuzza Obuggya
 loading: Okutikka
-ok: Kale
+
+ok: Okukakasa
+
 config: Okusengeka
 rm: Okujjamu
-setDone: Okuteekawo Okukolebwa
+
+setDone: Setup Efunye Obuwanguzi
+
 create: Okutonda
 
 enable: Okuyinzisa
 disable: Okulemala
+

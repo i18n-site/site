@@ -1,13 +1,20 @@
 search: Quaerere
-qHolder: Intra Keyword
-close: Close
-refresh: Renovare
-loading: Loading
-ok: Bene
-config: Mando
-rm: Aufer
-setDone: Profecta Fio
-create: Create
+qHolder: Please Enter A Keyword
 
-enable: Admitte
+close: Clausurae
+
+refresh: Reficite
+loading: Loading
+
+ok: Confirmo
+
+config: Configurationis
+rm: Aufer
+
+setDone: Setup Felix
+
+create: Creo
+
+enable: Da "
 disable: Inactivare
+

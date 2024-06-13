@@ -1,13 +1,20 @@
 search: ค้นหา
-qHolder: ป้อนคำสำคัญ
+qHolder: กรุณากรอกคำสำคัญ
+
 close: ปิด
+
 refresh: รีเฟรช
 loading: กำลังโหลด
-ok: ตกลง
+
+ok: ยืนยัน
+
 config: การกำหนดค่า
 rm: ลบ
-setDone: การตั้งค่าเสร็จสิ้น
+
+setDone: การติดตั้งที่ประสบความสำเร็จ
+
 create: สร้าง
 
 enable: เปิดใช้งาน
 disable: ปิดการใช้งาน
+

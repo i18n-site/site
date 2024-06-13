@@ -1,13 +1,20 @@
 search: Хайх
 qHolder: Түлхүүр Үг Оруулна Уу
-close: Хаах
+
+close: Хаалт
+
 refresh: Сэргээх
-loading: Ачааж Байна
-ok: Болж Байна Уу
+loading: Ачаалж Байна
+
+ok: Батлах
+
 config: Тохиргоо
 rm: Устгах
-setDone: Тохиргоо Дууссан
+
+setDone: Тохиргоо Амжилттай
+
 create: Үүсгэх
 
 enable: Идэвхжүүлэх
 disable: Идэвхгүй Болгох
+

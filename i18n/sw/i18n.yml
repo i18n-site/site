@@ -1,13 +1,20 @@
 search: Tafuta
-qHolder: Weka Nenomsingi
-close: Funga
-refresh: Onyesha Upya
-loading: Inapakia
-ok: Sawa
-config: Sanidi
+qHolder: Tafadhali Weka Neno Muhimu
+
+close: Kufungwa
+
+refresh: Furahisha
+loading: Kupakia
+
+ok: Thibitisha
+
+config: Usanidi
 rm: Ondoa
-setDone: Kuweka Kumefanywa
-create: Unda
+
+setDone: Usanidi Umefaulu
+
+create: Kuunda
 
 enable: Wezesha
 disable: Zima
+

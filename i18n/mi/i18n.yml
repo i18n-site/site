@@ -1,13 +1,20 @@
 search: Rapu
-qHolder: Whakauru Kupumatua
-close: Katia
-refresh: Tāmata
-loading: Uta Ana
-ok: Pai
-config: Whirihora
-rm: Tango
-setDone: Kua Oti Te Whakarite
-create: Waihanga
+qHolder: Whakaurua Koa He Kupu Matua
 
-enable: Whakahohe
+close: Katinga
+
+refresh: Whakamau
+loading: Utaina Ana
+
+ok: Whakaū
+
+config: Whirihoranga
+rm: Tango
+
+setDone: I Angitu Te Tatūnga
+
+create: Hanga
+
+enable: Taea
 disable: Monokia
+

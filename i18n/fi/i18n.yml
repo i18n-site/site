@@ -1,13 +1,20 @@
 search: Hae
-qHolder: Kirjoita Avainsana
-close: Kiinni
+qHolder: Anna Avainsana
+
+close: Päättäminen
+
 refresh: Virkistää
 loading: Ladataan
-ok: Ok
-config: Konfig
+
+ok: Vahvistaa
+
+config: Kokoonpano
 rm: Poista
-setDone: Asetus Tehty
+
+setDone: Asennus Onnistui
+
 create: Luoda
 
 enable: Ota Käyttöön
 disable: Poista Käytöstä
+

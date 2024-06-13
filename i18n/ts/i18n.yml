@@ -1,13 +1,20 @@
 search: Secha
-qHolder: Nghenisa Rito Ra Nkoka
-close: Pfala
-refresh: Pfuxeta
+qHolder: Hi kombela u nghenisa rito ra nkoka
+
+close: Ku Pfala
+
+refresh: Ku Phyuphyisa
 loading: Ku Layicha
-ok: Lulamile
-config: Ku Hlela
+
+ok: Tiyisisa
+
+config: Ku Lulamisiwa Ka Swilo
 rm: Susa
-setDone: Ku Veka Swi Endliwile
+
+setDone: Setup Yi Humelerile
+
 create: Vumba
 
 enable: Koteka
 disable: Vulamari
+

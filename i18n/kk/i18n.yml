@@ -1,13 +1,20 @@
 search: Іздеу
-qHolder: Негізгі Сөзді Енгізіңіз
-close: Жабық
+qHolder: Кілт Сөзді Енгізіңіз
+
+close: Жабу
+
 refresh: Жаңарту
-loading: Жүктелуде
-ok: Жарайды Ма
+loading: Жүктеу
+
+ok: Растау
+
 config: Конфигурация
 rm: Жою
-setDone: Орнату Аяқталды
+
+setDone: Орнату Сәтті Аяқталды
+
 create: Жасау
 
 enable: Қосу
 disable: Өшіру
+

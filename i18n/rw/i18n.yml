@@ -1,13 +1,20 @@
-search: Shakisha
-qHolder: Injira Ijambo Ryibanze
-close: Funga
-refresh: Ongera
-loading: Kuremera
-ok: Ok
-config: Hindura
+search: Gushakisha
+qHolder: Nyamuneka Andika Ijambo Ryibanze
+
+close: Gufunga
+
+refresh: Humura
+loading: Imizigo
+
+ok: Kwemeza
+
+config: Iboneza
 rm: Kuraho
-setDone: Gushiraho Byakozwe
+
+setDone: Gushiraho Bigenda Neza
+
 create: Kurema
 
 enable: Gushoboza
 disable: Hagarika
+

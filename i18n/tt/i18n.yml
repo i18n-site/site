@@ -1,13 +1,20 @@
 search: Эзләү
-qHolder: Ачкыч Сүз Кертегез
-close: Ябу
+qHolder: Зинһар, Ачкыч Сүз Кертегез
+
+close: Ябылу
+
 refresh: Яңарту
 loading: Йөкләү
-ok: Ярар
+
+ok: Расла
+
 config: Конфигурация
 rm: Чыгар
-setDone: Көйләү
-create: Ярат
 
-enable: Килеш
+setDone: Урнаштыру Уңышлы
+
+create: Булдыру
+
+enable: Кушарга
 disable: Сүндер
+

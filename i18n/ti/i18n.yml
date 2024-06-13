@@ -1,13 +1,20 @@
 search: ምድላይ
-qHolder: ቁልፊ ቃል ኣእትዉ
-close: ዕፁው
-refresh: ምሕዳስ
+qHolder: በጃኹም ቁልፊ ቃል ኣእትዉ
+
+close: ምዕጻው ምዃኑ’ዩ።
+
+refresh: ምሕዳስ ምግባር
 loading: ምጽዓን እዩ።
-ok: እሺ
-config: ኮንፊግ
+
+ok: ኣረጋግፅ
+
+config: ውቅር
 rm: ኣወግድ
-setDone: ሴቲንግ Done
+
+setDone: ሴትኣፕ ዕዉት ኮይኑ
+
 create: ፍጠር
 
 enable: ኣኽእል
 disable: ስንኩል
+

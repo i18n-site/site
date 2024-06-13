@@ -1,13 +1,20 @@
 search: Søg
-qHolder: Indtast Søgeord
-close: Tæt
+qHolder: Indtast Venligst Et Søgeord
+
+close: Lukning
+
 refresh: Opdater
 loading: Indlæser
-ok: Okay
-config: Konfig
+
+ok: Bekræfte
+
+config: Konfiguration
 rm: Fjerne
-setDone: Indstilling Udført
+
+setDone: Opsætningen Lykkedes
+
 create: Skab
 
-enable: Aktiver
+enable: Aktivere
 disable: Deaktiver
+
