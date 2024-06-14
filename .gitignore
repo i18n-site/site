@@ -14,7 +14,6 @@ env.sh
 /i18n/.i18n/.cache
 /i18n/.i18n/.hash
 /node_modules/
-/sh/*.js
 /src/conf.js
 /src/index.html
 /src/styl/plugin.styl
