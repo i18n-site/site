@@ -5,7 +5,6 @@
   ~/Index.svelte
   @2-/doc/BODY.js
   @8p/smnt:Mount
-  @2-/has_mouse:HAS_MOUSE
 
 # > @3-/idb
 #
@@ -25,20 +24,12 @@
 # )
 
 
-if HAS_MOUSE
-  # 必须 setTimeout, 不然虽然开发版没问题, 但是发布版会没法导入
-  setTimeout(
-    =>
-      (await import("@8p/mouse")).default()
-      return
-  )
-
-BODY.style = ''
-# 判断是否鼠标 https://stackoverflow.com/questions/7838680/detecting-that-the-browser-has-no-mouse-and-is-touch-only
 Mount(
   Index
   BODY
 )
+
+BODY.style = ''
 
 log = =>
   if (outerWidth > innerWidth) or (outerHeight - innerHeight > 130)
