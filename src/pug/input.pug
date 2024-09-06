@@ -1,0 +1,6 @@
+mixin input(placeholder)
+  u
+    input(placeholder=" ")&attributes(attributes)
+    label(for!=attributes.id)!= placeholder
+    if block
+      block

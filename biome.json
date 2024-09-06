@@ -1,0 +1,27 @@
+{
+	"$schema": "https://biomejs.dev/schemas/1.7.0/schema.json",
+	"formatter": {
+		"indentWidth": 2
+	},
+	"linter": {
+		"enabled": true,
+		"rules": {
+			"complexity": {
+				"noForEach": "off"
+			},
+			"suspicious": {
+				"noDoubleEquals": "off",
+				"noCatchAssign": "off"
+			},
+			"style": {
+				"useTemplate": "off",
+				"useSingleVarDeclarator": "off"
+			}
+		}
+	},
+	"javascript": {
+		"formatter": {
+			"semicolons": "asNeeded"
+		}
+	}
+}
