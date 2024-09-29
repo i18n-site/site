@@ -1,17 +1,16 @@
-search: Szukaj
 qHolder: Proszę wprowadzić słowa kluczowe
 
 close: Zamknij
 
 refresh: Odśwież
-loading: Ładowanie
+loading: Wczytywanie..
 
 ok: Potwierdź
 
 config: Konfiguracja
-rm: Usuń
+rm: Usunąć
 
-setDone: Ustawienia zapisane pomyślnie
+setDone: Konfiguracja zakończona sukcesem
 
 create: Utwórz
 

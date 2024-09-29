@@ -1,15 +1,14 @@
-search: Recherche
-qHolder: Veuillez saisir des mots-clés
+qHolder: Veuillez entrer des mots-clés
 
-close: Fermer
+close: Fermez
 
-refresh: Actualiser
-loading: Chargement en cours
+refresh: Rafraîchissez
+loading: En cours de chargement
 
-ok: Confirmer
+ok: Confirmez
 
-config: Configuration
-rm: Supprimer
+config: Configurer
+rm: Enlever
 
 setDone: Configuration réussie
 

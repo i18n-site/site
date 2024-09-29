@@ -1,19 +1,18 @@
-search: البحث
-qHolder: يرجى إدخال الكلمات المفتاحية
+qHolder: الرجاء إدخال الكلمات المفتاحية
 
 close: إغلاق
 
-refresh: إعادة تحميل
+refresh: التحديث
 loading: جارٍ التحميل
 
-ok: تأكيد
+ok: التأكيد
 
-config: إعدادات
-rm: إزالة
+config: الإعدادات
+rm: الإزالة
 
-setDone: تم إعدادها بنجاح
+setDone: تم الإعداد بنجاح
 
 create: إنشاء
 
-enable: تفعيل
-disable: تعطيل
+enable: التفعيل
+disable: التعطيل

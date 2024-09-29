@@ -1,19 +1,18 @@
-search: 検索
 qHolder: キーワードを入力してください
 
 close: 閉じる
 
-refresh: 更新
+refresh: 更新する
 loading: 読み込み中です
 
-ok: 確認
+ok: 確認してください
 
-config: 設定
-rm: 削除
+config: 設定を行う
+rm: 削除する
 
-setDone: 設定完了
+setDone: 設定が完了しました
 
-create: 作成
+create: 新規作成
 
-enable: 有効にする
-disable: 無効にする
+enable: 有効化
+disable: 無効化

@@ -1,19 +1,18 @@
-search: Tìm kiếm
 qHolder: Vui lòng nhập từ khóa
 
 close: Đóng
 
-refresh: Làm cho khỏe lại
+refresh: Refresh
 loading: Đang tải
 
 ok: Xác nhận
 
 config: Cấu hình
-rm: Gỡ bỏ
+rm: Loại bỏ
 
-setDone: Thiết lập thành công
+setDone: Đặt thành công
 
 create: Tạo
 
 enable: Kích hoạt
-disable: Vô hiệu hóa
+disable: Tắt

@@ -1,5 +1,4 @@
-search: Sök
-qHolder: Ange nyckelord
+qHolder: Vänligen ange nyckelord
 
 close: Stäng
 
@@ -11,7 +10,7 @@ ok: Bekräfta
 config: Konfiguration
 rm: Ta bort
 
-setDone: Inställningarna lyckades
+setDone: Inställningen lyckades
 
 create: Skapa
 

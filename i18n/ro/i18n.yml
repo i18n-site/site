@@ -1,19 +1,18 @@
-search: Căutare
-qHolder: Introduceți cuvinte cheie
+qHolder: Vă rugăm să introduceți cuvinte cheie
 
-close: Închide
+close: Închideți
 
-refresh: Actualizează
+refresh: Reîmprospătați
 loading: Se încarcă
 
-ok: Confirmă
+ok: Confirmați
 
-config: Configurează
-rm: Înlătură
+config: Configureazăți
+rm: Eliminați
 
-setDone: Configurează cu succes
+setDone: Configureazăreușită
 
-create: Creează
+create: Creați
 
-enable: Activează
-disable: Deactivează
+enable: Activați
+disable: Dezactivați

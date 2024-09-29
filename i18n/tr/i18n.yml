@@ -1,19 +1,18 @@
-search: Arama Yapmak
-qHolder: Anahtar Kelimeleri Lütfen Girin
+qHolder: Lütfen anahtar kelimeleri girin
 
-close: Kapatma
+close: Kapat
 
-refresh: Yenileme
+refresh: Yenile
 loading: Yükleniyor
 
-ok: Onaylama
+ok: Onayla
 
-config: Yapılandırma
-rm: Çıkarma
+config: Yapılandır
+rm: Çıkarmak
 
-setDone: Kurulum Başarıyla Tamamlandı
+setDone: Ayarlar başarılı
 
-create: Yaratma
+create: Oluştur
 
-enable: Etkinleştirme
-disable: Devre Dışı Bırakma
+enable: Etkinleştir
+disable: Devre dışı bırak

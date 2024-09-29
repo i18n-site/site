@@ -1,19 +1,18 @@
-search: Haku
-qHolder: Kirjoita avainsanat
+qHolder: Anna avainsanat
 
 close: Sulje
 
 refresh: Päivitä
-loading: Ladataaan
+loading: Lataa
 
 ok: Vahvista
 
-config: Asetukset
+config: Konfiguraatio
 rm: Poista
 
-setDone: Asetukset tallennettu onnistuneesti
+setDone: Asennus onnistui
 
 create: Luo
 
-enable: Ota käyttöön
+enable: OTA KÄYTTÖÖN
 disable: Poista käytöstä
