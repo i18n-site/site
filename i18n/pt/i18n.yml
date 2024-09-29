@@ -1,19 +1,18 @@
-search: Procurar
 qHolder: Insira as palavras-chave
 
-close: Fechar
+close: Finalizar
 
-refresh: Recarregar
-loading: Carregando
+refresh: Atualizar
+loading: Carregando..
 
 ok: Confirmar
 
-config: Configurações
+config: Configure
 rm: Remover
 
 setDone: Configuração bem-sucedida
 
 create: Criar
 
-enable: Ativar
-disable: Desativar
+enable: Habilitar
+disable: Desabilitar

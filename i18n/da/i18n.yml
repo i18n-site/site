@@ -1,19 +1,18 @@
-search: Søg
 qHolder: Indtast venligst nøgleord
 
 close: Luk
 
-refresh: Opdater
-loading: Indlæser
+refresh: Opfrisk
+loading: Indlæser..
 
 ok: Bekræft
 
 config: Konfiguration
 rm: Fjern
 
-setDone: Indstilling succesfuld
+setDone: Opsætningen lykkedes
 
 create: Opret
 
-enable: Aktiver
+enable: Aktivere
 disable: Deaktiver

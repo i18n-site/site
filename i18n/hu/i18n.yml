@@ -1,19 +1,18 @@
-search: Keresés
 qHolder: Kérjük, adja meg a kulcsszavakat
 
-close: Bezárás
+close: Beszüntetés
 
-refresh: Frissítés
-loading: Töltés folyamatban
+refresh: Újratöltés
+loading: Telepítés alatt
 
-ok: Confirmálás
+ok: Megerősítés
 
 config: Konfiguráció
-rm: eltávolítás
+rm: Eltávolítás
 
-setDone: Sikeres beállítás
+setDone: A beállítás sikeres
 
 create: Létrehozás
 
-enable: Engedélyezés
-disable: Letiltás
+enable: Bekapcsolás
+disable: Kikapcsolás

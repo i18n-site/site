@@ -1,17 +1,16 @@
-search: Søk
 qHolder: Vennligst skriv inn nøkkelord
 
 close: Lukk
 
-refresh: Last opp på nytt
-loading: Laster inn...
+refresh: Oppfrisk
+loading: Laster
 
 ok: Bekreft
 
 config: Konfigurasjon
 rm: Fjern
 
-setDone: Innstillinger fullført
+setDone: Konfigurasjonen var vellykket
 
 create: Opprett
 

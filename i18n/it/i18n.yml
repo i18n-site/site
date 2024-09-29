@@ -1,15 +1,14 @@
-search: Ricerca
 qHolder: Inserisci le parole chiave
 
 close: Chiudi
 
 refresh: Aggiorna
-loading: In caricamento
+loading: In carica
 
 ok: Conferma
 
-config: CONFIGURAZIONE
-rm: Rimuovi
+config: Configura
+rm: rimuovi
 
 setDone: Installazione avvenuta con successo
 

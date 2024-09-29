@@ -1,19 +1,18 @@
-search: Zoeken
-qHolder: Voer zoekwoorden in
+qHolder: Voer trefwoorden in
 
-close: Sluiten
+close: Sluit
 
-refresh: Vernieuwen
-loading: Wordt geladen
+refresh: Vernieuw
+loading: Laden..
 
-ok: Bevestigen
+ok: Bevestig
 
 config: Configuratie
-rm: Verwijderen
+rm: Verwijder
 
-setDone: Succesvol ingesteld
+setDone: Installatie geslaagd
 
-create: Aanmaken
+create: Creëer
 
-enable: Inschakelen
-disable: Uitschakelen
+enable: Ingeschakeld
+disable: Uitgeschakeld

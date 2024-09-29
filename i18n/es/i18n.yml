@@ -1,19 +1,18 @@
-search: Buscar
-qHolder: Ingrese palabras clave
+qHolder: Por favor, ingrese las palabras clave
 
 close: Cerrar
 
-refresh: Recargar
-loading: Cargando...
+refresh: Actualizar
+loading: Cargando..
 
 ok: Confirmar
 
-config: 配置
+config: Configure
 rm: Remover
 
-setDone: 设置成功
+setDone: configuración exitosa
 
 create: Crear
 
-enable: Habilitar
-disable: Deshabilitar
+enable: Activar
+disable: Desactivar

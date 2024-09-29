@@ -1,19 +1,18 @@
-search: 검색
 qHolder: 키워드를 입력해 주세요
 
 close: 닫기
 
-refresh: 새로고침
-loading: 로딩 중
+refresh: 새로 고침
+loading: 로드 중입니다
 
-ok: 확인
+ok: 확인하세요
 
-config: 구성
-rm: 제거
+config: 구성 설정
+rm: 제거하세요
 
-setDone: 설정 성공
+setDone: 설정이 완료되었습니다
 
-create: 생성
+create: 만들기
 
-enable: 활성화
-disable: 비활성화
+enable: 사용 가능하게 하세요
+disable: 사용 중지하세요

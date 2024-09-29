@@ -1,19 +1,18 @@
-search: Vyhledávání
-qHolder: Uveďte klíčová slova
+qHolder: Zadejte klíčová slova
 
-close: U zavřít
+close: Zavřít
 
 refresh: Obnovit
-loading: Načítání
+loading: Načítání..
 
 ok: Potvrdit
 
-config: Konfigurace
+config: Nastavení
 rm: Odstranit
 
 setDone: Nastavení bylo úspěšné
 
 create: Vytvořit
 
-enable: povolit
+enable: Povolit
 disable: Zakázat

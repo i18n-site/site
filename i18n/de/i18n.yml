@@ -1,19 +1,18 @@
-search: Suchen
-qHolder: Bitte geben Sie Suchbegriffe ein
+qHolder: Bitte geben Sie Schlüsselwörter ein
 
 close: Schließen
 
 refresh: Auffrischen
-loading: Wird geladen
+loading: Ladezustand
 
 ok: Bestätigen
 
 config: Konfiguration
 rm: Entfernen
 
-setDone: Erfolgreich eingerichtet
+setDone: Einrichtung erfolgreich
 
 create: Erstellen
 
-enable: aktivieren
-disable: deaktivieren
+enable: Aktivieren
+disable: Deaktivieren
