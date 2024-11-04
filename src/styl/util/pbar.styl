@@ -1,0 +1,26 @@
+progress
+  align-self center
+  appearance none
+  border 2px solid #eee
+  height 20px
+  overflow hidden
+  width 200px
+  -moz-appearance none
+  -webkit-appearance none
+
+progress, progress::-webkit-progress-bar
+  background var(--svgBarbg)
+  border-radius 9px
+  box-shadow 0 0 3px inset #ccc
+
+progress::-webkit-progress-value
+  background var(--svgBar)
+  border-radius 9px
+  box-shadow 0 0 3px inset #999
+  transition all 0.5s
+
+progress::-moz-progress-bar
+  background var(--svgBar)
+  border-radius 9px
+  box-shadow 0 0 3px inset #999
+  transition all 0.5s

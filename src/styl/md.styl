@@ -1,0 +1,70 @@
+b.m
+  &>div.P
+    display flex
+    flex-direction column
+    margin 0
+    margin-top 32px
+    padding-top 32px
+    position relative
+    width 100%
+
+    &:before
+      background var(--svgHline) 0 0 / 800px repeat-x
+      content ''
+      height 1px
+      opacity 0.5
+      position absolute
+      top 0
+      width 100%
+
+    &>hr
+      opacity 0.5
+
+    &>b
+      display flex
+      flex-wrap wrap
+      font-weight 400
+      justify-content space-between
+      margin-bottom -8px
+
+      &>a
+        &:after
+          display none
+
+        &>b:first-child
+          margin-right 8px
+
+        &>b
+          display inline-block
+          margin-bottom 8px
+          padding-bottom 4px
+          position relative
+
+        &.a1
+          margin-left auto
+
+        &.a-1
+          &>b:last-child
+            &:after
+              right 0
+
+        &.a-1>b:last-child, &.a1>b:first-child
+          &:after
+            bottom 0
+            content ''
+            display block
+            height 1px
+            opacity 0
+            position absolute
+            transition all 0.3s
+            width 0
+
+        &:hover
+          &.a-1>b:last-child, &.a1>b:first-child
+            &:after
+              background #00f
+              opacity 1
+              width 100%
+
+  &>pre+div.P, &>table+div.P, &>blockquote+div.P, &>details+div.P
+    margin-top 40px
